@@ -31,3 +31,29 @@ The pipeline automates code integration, containerization, infrastructure provis
 ---
 
 ## 📁 Project Structure
+├── app/
+│ └── index.html
+├── Dockerfile
+├── Jenkinsfile
+├── terraform/
+│ ├── main.tf
+│ ├── provider.tf
+│ ├── variables.tf
+│ └── outputs.tf
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🎯 Key Learnings
+- CI/CD pipeline automation using Jenkins
+- Infrastructure as Code using Terraform
+- Docker-based deployment on AWS EC2
+- Real-world DevOps workflow implementation
+
+---
+
+## 👤 Author
+HARISH
